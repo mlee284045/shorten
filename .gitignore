@@ -1,0 +1,3 @@
+requirements.txt
+local_settings.py
+*.pyc
